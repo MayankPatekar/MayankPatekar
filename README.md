@@ -1,3 +1,4 @@
+![logo](https://github.com/mayankpatekar/mayankpatekar/blob/b7d0de4f021e916ee8492f977d83ae1f672403cc/Mayank%20Patekar.png)
 <h1 align="center">Hi 👋, I'm Mayank Patekar</h1>
 <h3 align="center">Building Robust Apps with MERN, Flutter, and Java Expertise</h3>
 
